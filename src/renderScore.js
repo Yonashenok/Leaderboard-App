@@ -7,8 +7,9 @@ const renderScore = async () => {
   const { result } = await fetchPro(API_URL);
   scoreContainer.innerHTML = '';
   const markUp = result
+    .slice(3)
     .map(
-      (user) => ` <div class="score-element">${user.user}: ${user.score}</div>`,
+      (user) => ` <div class="score-element">${user.user}: ${user.score}</div>`
     )
     .join('');
   scoreContainer.insertAdjacentHTML('afterbegin', markUp);
