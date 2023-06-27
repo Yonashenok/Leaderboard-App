@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Leaderboard-Apps] <a name="about-project"></a>
 
-**[Leaderboard-App]** is a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. Which display the score and name of the user.
+**[Leaderboard-App]** is a website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external [Leaderboard API service](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3). This website is build by using JavaScript, webpack and ES6 features, notably modules.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -202,7 +202,7 @@ If you like this project please contact us with [LinkedIn](https://www.linkedin.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partners for shearing there knowledge and experience.
+I would like to thank my coding partners for shearing there knowledge and experience. additionally All data is preserved thanks to the external [Leaderboard API service](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).
 
 <!-- FAQ (optional) -->
 
