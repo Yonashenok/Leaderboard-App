@@ -8,7 +8,7 @@ const renderScore = async () => {
   scoreContainer.innerHTML = '';
   const markUp = result
     .map(
-      (user) => ` <div class="score-element">${user.user}: ${user.score}</div>`,
+      (user) => ` <div class="score-element">${user.user}: ${user.score}</div>`
     )
     .join('');
   scoreContainer.insertAdjacentHTML('afterbegin', markUp);
