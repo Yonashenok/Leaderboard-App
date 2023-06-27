@@ -85,7 +85,7 @@ After you're finished please remove all the comments and instructions!
 
 >
 
-- [Live Demo]()
+- [Live Demo](https://yonashenok.github.io/Leaderboard-App/)
 
 <!-- GETTING STARTED -->
 
