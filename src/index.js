@@ -6,7 +6,6 @@ import pandora from './asset/img/PandoraDAK.jpg';
 
 const form = document.querySelector('.score-form');
 const refreshBtn = document.querySelector('.refresh-btn');
-
 const bgBody = document.querySelector('body');
 const imgElement = document.createElement('img');
 
