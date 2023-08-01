@@ -108,9 +108,9 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd Leaderboard-App
-
   git clone https://github.com/Yonashenok/Leaderboard-App.git
+
+  cd Leaderboard-App
 ```
 
 ### Install
